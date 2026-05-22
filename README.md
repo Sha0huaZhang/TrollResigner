@@ -39,17 +39,17 @@ Check:In Terminal,run
 Make sure the version was 4.14.0 or higher.    
     确保你的版本为4.14.0及以上
 
-**Download ChOma** (If not downloaded):   
-**下载ChOma** （如果尚未下载）：
+**Download MachOX** (If not downloaded):   
+**下载MachOX** （如果尚未下载）：
 
-Get ChOma from this repository (ChOma.zip) or download from https://GitHub.com/opa334/ChOma    
-从本仓库（ChOma.zip）获取 ChOma 或从 https://GitHub.com/opa334/ChOma 下载
+Get ChOma from this repository (MachOX.zip) or download from https://GitHub.com/Sha0huaZhang/MachOX  
+从本仓库（MachOX.zip）获取 ChOma 或从 https://GitHub.com/opa334/ChOma 下载
 
 **Download PersistenceHelper** (If not downloaded):   
 **下载PersistenceHelper** （如果尚未下载）：
 
 Get PersistenceHelper from this repository (PersistenceHelper.zip) or download from https://GitHub.com/opa334/TrollStore    
-从本仓库（ChOma.zip）获取 PersistenceHelper 或从 https://GitHub.com/opa334/TrollStore 下载
+从本仓库（PersistenceHelper.zip）获取 PersistenceHelper 或从 https://GitHub.com/opa334/TrollStore 下载
 
 
 # Thanks/致谢:
