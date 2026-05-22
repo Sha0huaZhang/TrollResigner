@@ -42,9 +42,14 @@ Make sure the version was 4.14.0 or higher.
 **Download ChOma** (If not downloaded):   
 **下载ChOma** （如果尚未下载）：
 
-Get ChOma from https://GitHub.com/opa334/ChOma    
-从 https://GitHub.com/opa334/ChOma 下载ChOma
+Get ChOma from this repository (ChOma.zip) or download from https://GitHub.com/opa334/ChOma    
+从本仓库（ChOma.zip）获取 ChOma 或从 https://GitHub.com/opa334/ChOma 下载
 
+**Download PersistenceHelper** (If not downloaded):   
+**下载PersistenceHelper** （如果尚未下载）：
+
+Get PersistenceHelper from this repository (PersistenceHelper.zip) or download from https://GitHub.com/opa334/TrollStore    
+从本仓库（ChOma.zip）获取 PersistenceHelper 或从 https://GitHub.com/opa334/TrollStore 下载
 
 
 # Thanks/致谢:
