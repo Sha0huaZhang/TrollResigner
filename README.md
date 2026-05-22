@@ -13,7 +13,7 @@ iOS 16.7 (20H19) - iOS 16.7.x & iOS 17.0.1
 **安装Python 3** （如果尚未安装）：
 
 Installer from https://python.org    
-    从https://python.prg下载Python 3
+    从 https://python.org 下载Python 3
 
 Check:In Terminal,run
     检查版本：在终端运行
@@ -43,7 +43,7 @@ Make sure the version was 4.14.0 or higher.
 **下载ChOma** （如果尚未下载）
 
 Get ChOma from https://GitHub.com/opa334/ChOma
-从https://GitHub.com/opa334/ChOma下载ChOma
+从 https://GitHub.com/opa334/ChOma 下载ChOma
 
 
 
