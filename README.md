@@ -12,5 +12,4 @@ iOS 16.7 (20H19) - iOS 16.7.x & iOS 17.0.1
 (by alphabetical/按首字母排列)
 
 JJTech (@JJTech0130) : TrollRestore & SparseRestore & CVE-2024-44252
-
 Lars Fröder (@opa334) : TrollStore 
