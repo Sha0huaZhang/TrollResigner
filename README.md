@@ -9,7 +9,7 @@ TrollResigner 是 TrollStore 在 iOS 16.7 (20H19) - iOS 16.7.x & iOS 17.0.1的�
 # Supported Versions/支持版本
 iOS 16.7 (20H19) - iOS 16.7.x & iOS 17.0.1
 # Usage
-Install Python3 (If not already installed )
+Install Python3 (If not already installed ):Installer from [python.org]https://python.org
 
 Install pymobiledevice3 (If not already installed )
 In Terminal,run
