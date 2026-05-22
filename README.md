@@ -8,11 +8,11 @@ TrollResigner is a tool to install TrollStore on iOS 16.7 (20H19) - iOS 16.7.x &
 TrollResigner 是 TrollStore 在 iOS 16.7 (20H19) - iOS 16.7.x & iOS 17.0.1的安装工具。
 # Supported Versions/支持版本
 iOS 16.7 (20H19) - iOS 16.7.x & iOS 17.0.1
-# Usage
+# Usage/使用方法
 **Install Python3** (If not installed ):  
 **安装Python 3** （如果尚未安装）：
 
-Installer from https://python.org    
+Install Python 3 from https://python.org    
     从 https://python.org 下载Python 3
 
 Check:In Terminal,run    
@@ -39,8 +39,8 @@ Check:In Terminal,run
 Make sure the version was 4.14.0 or higher.    
     确保你的版本为4.14.0及以上
 
-**Download ChOma** (If not downloaded)    
-**下载ChOma** （如果尚未下载）
+**Download ChOma** (If not downloaded):   
+**下载ChOma** （如果尚未下载）：
 
 Get ChOma from https://GitHub.com/opa334/ChOma    
 从 https://GitHub.com/opa334/ChOma 下载ChOma
