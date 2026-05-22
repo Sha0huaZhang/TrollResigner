@@ -32,7 +32,7 @@ Check:In Terminal,run
 Make sure the version was 4.14.0 or higher.
 
 # Thanks/致谢:
-(by alphabetical/按首字母排列)
+(in alphabetical/按首字母排列)
 
 JJTech (@JJTech0130) : TrollRestore & SparseRestore & CVE-2024-44252
 
