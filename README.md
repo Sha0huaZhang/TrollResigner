@@ -36,4 +36,4 @@ Make sure the version was 4.14.0 or higher.
 
 JJTech (@JJTech0130) : TrollRestore & SparseRestore & CVE-2024-44252
 
-Lars Fröder (@opa334) : TrollStore 
+Lars Fröder (@opa334) : TrollStore & ChOma
