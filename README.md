@@ -8,6 +8,11 @@ TrollResigner is a toll to install TrollStore on iOS 16.7 (20H19) - iOS 16.7.x &
 TrollResigner 是 TrollStore 在 iOS 16.7 (20H19) - iOS 16.7.x & iOS 17.0.1的安装工具。
 # Supported Versions/支持版本
 iOS 16.7 (20H19) - iOS 16.7.x & iOS 17.0.1
+# Usage
+
+
+```pip3 install pymobiledevice3```
+
 # Thanks/致谢:
 (by alphabetical/按首字母排列)
 
