@@ -17,6 +17,8 @@ Check:In Terminal,run
 
 ```python3 --version```
 
+Make sure the version was Python 3.9 or higher.
+
 **Install pymobiledevice3** (If not already installed ):
 
 In Terminal,run
@@ -26,6 +28,8 @@ In Terminal,run
 Check:In Terminal,run
 
 ```pymobiledevice3 version```
+
+Make sure the version was 4.14.0 or higher.
 
 # Thanks/致谢:
 (by alphabetical/按首字母排列)
