@@ -15,31 +15,31 @@ iOS 16.7 (20H19) - iOS 16.7.x & iOS 17.0.1
 Installer from https://python.org    
     从 https://python.org 下载Python 3
 
-Check:In Terminal,run
+Check:In Terminal,run    
     检查版本：在终端运行
     
 ```python3 --version```
 
-Make sure the version was Python 3.9 or higher.
+Make sure the version was Python 3.9 or higher.    
     确保你的版本为Python 3.9及以上
 
-**Install pymobiledevice3** (If not installed ):
+**Install pymobiledevice3** (If not installed ):    
 **安装pymobiledevice3** （如果尚未安装）：
 
-In Terminal,run
+In Terminal,run    
     在终端运行
 
 ```pip3 install pymobiledevice3```
 
-Check:In Terminal,run
+Check:In Terminal,run    
     检查版本：在终端运行
 
 ```pymobiledevice3 version```
 
-Make sure the version was 4.14.0 or higher.
+Make sure the version was 4.14.0 or higher.    
     确保你的版本为4.14.0及以上
 
-**Download ChOma** (If not downloaded)
+**Download ChOma** (If not downloaded)    
 **下载ChOma** （如果尚未下载）
 
 Get ChOma from https://GitHub.com/opa334/ChOma    
@@ -50,6 +50,5 @@ Get ChOma from https://GitHub.com/opa334/ChOma
 # Thanks/致谢:
 (in alphabetical/按首字母排列)
 
-JJTech (@JJTech0130) : TrollRestore & SparseRestore & CVE-2024-44252
-
-Lars Fröder (@opa334) : TrollStore & ChOma
+JJTech (@JJTech0130) : TrollRestore & SparseRestore & CVE-2024-44252    
+    Lars Fröder (@opa334) : TrollStore & ChOma
