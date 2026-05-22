@@ -42,7 +42,7 @@ Make sure the version was 4.14.0 or higher.
 **Download ChOma** (If not downloaded)
 **下载ChOma** （如果尚未下载）
 
-Get ChOma from https://GitHub.com/opa334/ChOma
+Get ChOma from https://GitHub.com/opa334/ChOma    
 从 https://GitHub.com/opa334/ChOma 下载ChOma
 
 
