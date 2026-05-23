@@ -77,8 +77,8 @@ In Terminal ,run
         
 **Verify the output / 验证输出**    
 
-The signed helper will be saved to your Desktop as `helper_resign`.    
-    签名后的 Helper 文件将保存在桌面，文件名为 `helper_resign`。
+The signed helper will be saved to your Desktop as `helper_resign`    
+    签名后的 Helper 文件将保存在桌面，文件名为 `helper_resign`
 
 **Rename the output / 重命名输出文件**    
 
@@ -94,9 +94,15 @@ In Terminal ,run
        
         python3 restorehelper.py    
 
-按提示输入一个系统应用的名字（如：tips）    
-Follow the on-screen instructions to select a system app to replace (e.g., Tips.app).
+Follow the on-screen instructions to select a system app to replace (e.g., `tips`)       
+按提示输入一个系统应用的名字（如：`tips`）    
 
+
+After the device restarts, enter the system app you entered    
+等待设备重启后，进入你输入的系统应用
+
+Click `Install TrollStore` and wait    
+点击 `Install TrollStore` 并等待
 
 # Credits/致谢:
 (in alphabetical/按首字母排列)
