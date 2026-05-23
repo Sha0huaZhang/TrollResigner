@@ -5,13 +5,13 @@
 restorehelper.py
 
 SHA256:f40e19fd46d979dc18bcbcc9d7f9f85b75dbdab5a5acef80e581a0bde629cc52
-# Details/详情
+# Details / 详情
 TrollResigner is a tool to install TrollStore on iOS 16.7 (20H19) - iOS 16.7.x & iOS 17.0.1.
 
 TrollResigner 是 TrollStore 在 iOS 16.7 (20H19) - iOS 16.7.x & iOS 17.0.1的安装工具。
-# Supported Versions/支持版本
+# Supported Versions / 支持版本
 iOS 16.7 (20H19) - iOS 16.7.x & iOS 17.0.1
-# Usage/使用方法
+# Usage / 使用方法
 **Install Python3** (If not installed):  
 **安装Python 3** （如果尚未安装）：
 
@@ -47,13 +47,54 @@ pymobiledevice3 version
 
 Make sure the version was 4.14.0 or higher.    
     确保你的版本为4.14.0及以上
+     
+**Build MachOX / 构建 MachOX**
 
-**Download MachOX** (If not downloaded):   
-**下载MachOX** （如果尚未下载）：
+In Terminal ,run    
+    在终端运行    
 
-Download MachOX from https://GitHub.com/Sha0huaZhang/MachOX/releases  
-从 https://GitHub.com/Sha0huaZhang/MachOX/releases 下载 MachOX
+        git clone https://github.com/ShaOhuaZhang/MachOX.git
+        cd MachOX
+        make
 
+**Get your Team ID / 获取你的 Team ID**    
+      
+In Terminal ,run    
+    在终端运行    
+        
+        security find-identity -v -p basic | grep "Apple Development"
+
+
+Copy the Team ID from the output (e.g., `A11A111AAA`)    
+    从输出中获取你的 Team ID （如`A11A111AAA`）
+
+**Sign your file / 签名 Helper**    
+
+In Terminal ,run    
+    在终端运行    
+        
+        ./MachOX -i dummy -o ~/Desktop/helper_resign -t YOUR_TEAM_ID
+        
+**Verify the output / 验证输出**    
+
+The signed helper will be saved to your Desktop as `helper_resign`.    
+    签名后的 Helper 文件将保存在你的桌面，文件名为 `helper_resign`。
+
+**Rename the output / 重命名输出文件**    
+
+In Terminal ,run    
+    在终端运行
+
+    mv ~/Desktop/helper_resign ~/Desktop/TrollStorePersistanceHelper_Resign
+
+**Run RestoreHelper / 运行 RestoreHelper**    
+
+In Terminal ,run    
+    在终端运行
+        python3 restorehelper.py    
+
+按提示输入一个系统应用的名字（如：tips）    
+Follow the on-screen instructions to select a system app to replace (e.g., Tips.app).
 
 
 # Credits/致谢:
