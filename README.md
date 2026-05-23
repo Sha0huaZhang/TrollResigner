@@ -91,6 +91,7 @@ In Terminal ,run
 
 In Terminal ,run    
     在终端运行
+       
         python3 restorehelper.py    
 
 按提示输入一个系统应用的名字（如：tips）    
