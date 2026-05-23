@@ -38,7 +38,7 @@ In Terminal,run
 pip3 install pymobiledevice3
 ```
 
-Check:In Terminal,run    
+Check:In Terminal, run    
     检查版本：在终端运行
 
 ```bash
@@ -50,7 +50,7 @@ Make sure the version was 4.14.0 or higher.
      
 **Build MachOX / 构建 MachOX**
 
-In Terminal ,run    
+In Terminal, run    
     在终端运行    
 
         git clone https://github.com/ShaOhuaZhang/MachOX.git
@@ -59,7 +59,7 @@ In Terminal ,run
 
 **Get your Team ID / 获取你的 Team ID**    
       
-In Terminal ,run    
+In Terminal, run    
     在终端运行    
         
         security find-identity -v -p basic | grep "Apple Development"
@@ -70,7 +70,7 @@ Copy the Team ID from the output (e.g., `A11A111AAA`)
 
 **Sign your file / 签名 Helper**    
 
-In Terminal ,run    
+In Terminal, run    
     在终端运行    
         
         ./MachOX -i dummy -o ~/Desktop/helper_resign -t YOUR_TEAM_ID
@@ -82,14 +82,14 @@ The signed helper will be saved to your Desktop as `helper_resign`
 
 **Rename the output / 重命名输出文件**    
 
-In Terminal ,run    
+In Terminal, run    
     在终端运行
 
     mv ~/Desktop/helper_resign ~/Desktop/TrollStorePersistanceHelper_Resign
 
 **Run RestoreHelper / 运行 RestoreHelper**    
 
-In Terminal ,run    
+In Terminal, run    
     在终端运行
        
         python3 restorehelper.py    
