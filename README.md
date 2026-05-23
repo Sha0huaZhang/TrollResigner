@@ -34,7 +34,8 @@ In Terminal,run
 Check:In Terminal,run    
     检查版本：在终端运行
 
-```pymobiledevice3 version```
+```bash
+pymobiledevice3 version```
 
 Make sure the version was 4.14.0 or higher.    
     确保你的版本为4.14.0及以上
@@ -42,18 +43,12 @@ Make sure the version was 4.14.0 or higher.
 **Download MachOX** (If not downloaded):   
 **下载MachOX** （如果尚未下载）：
 
-Get ChOma from this repository (MachOX.zip) or download from https://GitHub.com/Sha0huaZhang/MachOX  
-从本仓库（MachOX.zip）获取 ChOma 或从 https://GitHub.com/opa334/ChOma 下载
-
-**Download PersistenceHelper** (If not downloaded):   
-**下载PersistenceHelper** （如果尚未下载）：
-
-Get PersistenceHelper from this repository (PersistenceHelper.zip) or download from https://GitHub.com/opa334/TrollStore    
-从本仓库（PersistenceHelper.zip）获取 PersistenceHelper 或从 https://GitHub.com/opa334/TrollStore 下载
+Download MachOX from https://GitHub.com/Sha0huaZhang/MachOX  
+从 https://GitHub.com/opa334/ChOma 下载 MachOX
 
 
 # Thanks/致谢:
 (in alphabetical/按首字母排列)
 
 JJTech (@JJTech0130) : TrollRestore & SparseRestore & CVE-2024-44252    
-    Lars Fröder (@opa334) : TrollStore & ChOma
+    Lars Fröder (@opa334) : TrollStore
