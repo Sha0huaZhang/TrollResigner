@@ -78,7 +78,7 @@ In Terminal ,run
 **Verify the output / 验证输出**    
 
 The signed helper will be saved to your Desktop as `helper_resign`.    
-    签名后的 Helper 文件将保存在你的桌面，文件名为 `helper_resign`。
+    签名后的 Helper 文件将保存在桌面，文件名为 `helper_resign`。
 
 **Rename the output / 重命名输出文件**    
 
