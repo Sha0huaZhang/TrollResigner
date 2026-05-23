@@ -43,7 +43,7 @@ Make sure the version was 4.14.0 or higher.
 **下载MachOX** （如果尚未下载）：
 
 Download MachOX from https://GitHub.com/Sha0huaZhang/MachOX  
-从 https://GitHub.com/opa334/ChOma 下载 MachOX
+从 https://GitHub.com/Sha0huaZhang/MachOX 下载 MachOX
 
 
 # Thanks/致谢:
