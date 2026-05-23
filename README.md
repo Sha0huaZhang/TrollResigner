@@ -51,11 +51,11 @@ Make sure the version was 4.14.0 or higher.
 **Download MachOX** (If not downloaded):   
 **下载MachOX** （如果尚未下载）：
 
-Download MachOX from https://GitHub.com/Sha0huaZhang/MachOX  
-从 https://GitHub.com/Sha0huaZhang/MachOX 下载 MachOX
+Download MachOX from https://GitHub.com/Sha0huaZhang/MachOX/releases  
+从 https://GitHub.com/Sha0huaZhang/MachOX/releases 下载 MachOX
 
 
-# Thanks/致谢:
+# Credits/致谢:
 (in alphabetical/按首字母排列)
 
 JJTech (@JJTech0130) :[https://GitHub.com/JJTech0130] TrollRestore & SparseRestore & CVE-2024-44252    
