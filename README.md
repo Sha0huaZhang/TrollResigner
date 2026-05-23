@@ -34,8 +34,7 @@ In Terminal,run
 Check:In Terminal,run    
     检查版本：在终端运行
 
-```bash
-pymobiledevice3 version```
+```pymobiledevice3 version```
 
 Make sure the version was 4.14.0 or higher.    
     确保你的版本为4.14.0及以上
