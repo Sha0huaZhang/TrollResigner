@@ -1,4 +1,7 @@
 # TrollResigner
+
+**SHA256**
+
 restorehelper.py
 
 SHA256:f40e19fd46d979dc18bcbcc9d7f9f85b75dbdab5a5acef80e581a0bde629cc52
