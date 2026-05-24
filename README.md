@@ -107,5 +107,5 @@ Click `Install TrollStore` and wait
 # Credits/致谢:
 (in alphabetical/按首字母排列)
 
-JJTech (@JJTech0130) :[https://GitHub.com/JJTech0130](https://GitHub.com/JJTech0130) TrollRestore & SparseRestore & CVE-2024-44252    
-    Lars Fröder (@opa334) :[https://GitHub.com/opa334](https://GitHub.com/opa334) TrollStore
+JJTech (@JJTech0130) [https://GitHub.com/JJTech0130](https://GitHub.com/JJTech0130) : TrollRestore & SparseRestore & CVE-2024-44252    
+    Lars Fröder (@opa334) [https://GitHub.com/opa334](https://GitHub.com/opa334) : TrollStore
