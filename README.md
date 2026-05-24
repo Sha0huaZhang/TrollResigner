@@ -108,12 +108,7 @@ Copy the Team ID from the output (e.g., `A11A111AAA`)
 In Terminal, run    
     在终端运行
 
-        python3 trollresigner_gui_zh.py
-
-或    
-or
-
-        python3 trollresigner_gui_en.py
+        python3 trollresigner_gui.py
 
 
 Follow the on-screen instructions to select a system app to replace (e.g., `tips`)       
