@@ -11,8 +11,12 @@ TrollResigner is a tool to install TrollStore on iOS 16.7 (20H19) - iOS 16.7.x &
 TrollResigner 是 TrollStore 在 iOS 16.7 (20H19) - iOS 16.7.x & iOS 17.0.1的安装工具。
 # Supported Versions / 支持版本
 iOS 16.7 (20H19) - iOS 16.7.x & iOS 17.0.1
-# Usage / 使用方法
 
+| From | To | arm64 (A8) | arm64 (A9-A11) | arm64e (A12-A17/M1-M2) |
+|-|-|-|-|-|
+| -- | iOS 14.0 beta 1| Unsupported | Unsupported | Unsupported |
+| 
+# Usage / 使用方法
 # I . TrollResigner_GUI (For User)             
 
 
