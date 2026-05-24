@@ -13,7 +13,7 @@ TrollResigner 是 TrollStore 在 iOS 16.7 (20H19) - iOS 16.7.x & iOS 17.0.1的�
 iOS 16.7 (20H19) - iOS 16.7.x & iOS 17.0.1
 # Usage / 使用方法
 
-# I.TrollResigner_GUI (For User)             
+# I . TrollResigner_GUI (For User)             
 
 
 **Install Python3** (If not installed):  
@@ -103,7 +103,7 @@ After the device restarts, enter the system app you entered
 Click `Install TrollStore` and wait    
 点击 `Install TrollStore` 并等待    
 
-# II.TrollResigner_CLI (For Developer)       
+# II . TrollResigner_CLI (For Developer)       
 
 **Install Python3** (If not installed):  
 **安装Python 3** （如果尚未安装）：
