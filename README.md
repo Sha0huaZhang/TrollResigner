@@ -92,6 +92,17 @@ or
 
         python3 trollresigner_gui_en.py
 
+
+Follow the on-screen instructions to select a system app to replace (e.g., `tips`)       
+按提示输入一个系统应用的名字（如：`tips`）    
+
+
+After the device restarts, enter the system app you entered    
+等待设备重启后，进入你输入的系统应用
+
+Click `Install TrollStore` and wait    
+点击 `Install TrollStore` 并等待    
+
 # II.TrollResigner_CLI (For Developer)       
 
 **Install Python3** (If not installed):  
