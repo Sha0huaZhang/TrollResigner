@@ -48,9 +48,7 @@ Install Python 3 from https://python.org
 Check:In Terminal,run    
     检查版本：在终端运行
     
-    ```bash
-    python3 --version
-    ```
+    python3 --version    
 
 Make sure the version was Python 3.9 or higher.    
     确保你的版本为Python 3.9及以上
@@ -61,16 +59,12 @@ Make sure the version was Python 3.9 or higher.
 In Terminal,run    
     在终端运行
 
-    ```bash
-    pip3 install pymobiledevice3
-    ```
+    pip3 install pymobiledevice3   
 
 Check:In Terminal, run    
     检查版本：在终端运行
 
-```bash
-pymobiledevice3 version
-```
+pymobiledevice3 version    
 
 Make sure the version was 4.14.0 or higher.    
     确保你的版本为4.14.0及以上
