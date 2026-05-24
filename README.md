@@ -30,7 +30,7 @@ iOS 16.7 (20H19) - iOS 16.7.x & iOS 17.0.1
 | 17.0beta1 | 17.0beta4 | Not Applicable| TrollInstallerX | TrollRestore |
 | 17.0beta5 | 17.0 | Not Applicable | TrollRestore | TrollRestore |
 | 17.0.1 | 17.0.1 | Not Applicable| TrollResigner| TrollResigner|
-| 17.0.2 | -- | Not Applicable | Unsupported |
+| 17.0.2 | -- | Not Applicable | Unsupported | Unsupported |
 
 
 *Some data from https://ios.cfw.guide
