@@ -33,7 +33,7 @@ iOS 16.7 (20H19) - iOS 16.7.x & iOS 17.0.1
 | 17.0.2 | -- | Not Applicable | Unsupported | Unsupported |
 
 
-*Some data from https://ios.cfw.guide
+*Some data from [https://ios.cfw.guide](https://ios.cfw.guide/installing-trollstore/)
 
 # Usage / 使用方法
 # I . TrollResigner_GUI (For User)             
