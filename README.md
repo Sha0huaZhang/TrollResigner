@@ -14,8 +14,27 @@ iOS 16.7 (20H19) - iOS 16.7.x & iOS 17.0.1
 
 | From | To | arm64 (A8) | arm64 (A9-A11) | arm64e (A12-A17/M1-M2) |
 |-|-|-|-|-|
-| -- | iOS 14.0 beta 1| Unsupported | Unsupported | Unsupported |
-| 
+| -- | 14.0beta1| Unsupported | Unsupported | Unsupported |
+| 14.0beta2 | 14.8.1 | TrollInstallerX | TrollInstallerX | TrollHelperOTA |
+| 15.0 | 15.5beta4 | TrollHelperOTA | TrollHelperOTA | TrollHelperOTA|
+| 15.5 | 15.5 | TrollInstallerMDC | TrollInstallerX | TrollHelperOTA |
+| 15.6beta1 | 15.6beta3 | TrollHelperOTA | TrollHelperOTA | TrollHelperOTA |
+| 15.6beta4 | 15.6.1 | TrollInstallerMDC | TrollInstallerX | TrollHelperOTA |
+| 15.7| 15.7.1 | TrollInstallerMDC | TrollInstallerX | TrollInstallerX |
+| 15.7.2| 15.8.6 | TrollMisaka | TrollInstallerX | TrollInstallerX |
+| 15.8.7| 15.8.8| TrollRestore | TrollRestore | Not Applicable|
+| 16.0beta1 | 16.0beta5 | Not Applicable | TrollInstallerX | TrollHelperOTA |
+| 16.0beta6 | 16.6.1 | Not Applicable | TrollInstallerX | TrollInstallerX |
+| 16.7 RC | 16.7 RC| Not Applicable | TrollRestore | TrollRestore |
+| 16.7 | 16.7.16| Not Applicable | TrollResigner | TrollResigner|
+| 17.0beta1 | 17.0beta4 | Not Applicable| TrollInstallerX | TrollRestore |
+| 17.0beta5 | 17.0 | Not Applicable | TrollRestore | TrollRestore |
+| 17.0.1 | 17.0.1 | Not Applicable| TrollResigner| TrollResigner|
+| 17.0.2 | -- | Not Applicable | Unsupported |
+
+
+*Some data from https://ios.cfw.guide
+
 # Usage / 使用方法
 # I . TrollResigner_GUI (For User)             
 
