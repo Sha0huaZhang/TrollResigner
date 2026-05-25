@@ -102,7 +102,7 @@ Make sure MachOX_force is on Desktop.If not,move it to Desktop
 In Terminal, run    
     在终端运行    
         
-        ~/Desktop/MachOX_force -i ~/Desktop/PersistenceHelper -o ~/Desktop/helper_resign -t G44H729HFF -A /Applications/Safari.app/Contents/MacOS/Safari
+        ~/Desktop/MachOX_force -i ~/Desktop/PersistenceHelper -o ~/Desktop/helper_resign -t YOUR_TEAM_ID -A /Applications/Safari.app/Contents/MacOS/Safari
         
 **Verify the output / 验证输出**    
 
