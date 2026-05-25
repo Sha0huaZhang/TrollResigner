@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import platform
 import sys
 import traceback
@@ -18,7 +20,6 @@ from sparserestore import backup, perform_restore
 def exit(code=0):
     if platform.system() == "Windows" and getattr(sys, "frozen", False) and hasattr(sys, "_MEIPASS"):
         input("Press Enter to exit...")
-
     sys.exit(code)
 
 
@@ -89,21 +90,21 @@ Enter the app name"""
     app_uuid = app_path.parent.name
 
     desktop = Path.home() / "Desktop"
-    helper_path = desktop / "TrollStorePersistanceHelper_Resign"
+    helper_path = desktop / "TrollStorePersistenceHelper_Resign"
 
     if not helper_path.exists():
-        click.secho(f"Can't Find Resigned File: {helper_path}", fg="red")
-        click.secho("Please Resign By Your Developer Certificate", fg="red")
+        click.secho(f"Can't find resigned file: {helper_path}", fg="red")
+        click.secho("Please run SignHelper first to generate the resigned file.", fg="red")
         return
 
     try:
         with open(helper_path, "rb") as f:
             helper_contents = f.read()
-        click.secho(f"Resigned File Get Successfully {helper_path}", fg="green")
+        click.secho(f"Resigned file loaded successfully: {helper_path}", fg="green")
     except Exception as e:
-        click.secho(f"Failed To Get Resigned File {e}", fg="red")
+        click.secho(f"Failed to get resigned file: {e}", fg="red")
         return
-    
+
     click.secho(f"Replacing {app} with TrollStore Helper. (UUID: {app_uuid})", fg="yellow")
 
     back = backup.Backup(
