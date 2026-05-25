@@ -36,8 +36,6 @@ iOS 16.7 (20H19) - iOS 16.7.x & iOS 17.0.1
 *Some data from [https://ios.cfw.guide](https://ios.cfw.guide/installing-trollstore/)
 
 # Usage / 使用方法
-# I . TrollResigner_GUI (For User)             
-
 
 **Install Python3** (If not installed):  
 **安装Python 3** （如果尚未安装）：
@@ -48,87 +46,9 @@ Install Python 3 from https://python.org
 Check:In Terminal,run    
     检查版本：在终端运行
     
-        python3 --version    
-
-Make sure the version was Python 3.9 or higher.    
-    确保你的版本为Python 3.9及以上
-
-**Install pymobiledevice3** (If not installed):    
-**安装pymobiledevice3** （如果尚未安装）：
-
-In Terminal,run    
-    在终端运行
-
-        pip3 install pymobiledevice3   
-
-Check:In Terminal, run    
-    检查版本：在终端运行
-
-pymobiledevice3 version    
-
-Make sure the version was 4.14.0 or higher.    
-    确保你的版本为4.14.0及以上
-
-**Install PyQt5** (If not installed):    
-**安装 PyQt5**（如果尚未安装）：    
-
-In Terminal, run    
-    在终端运行
-
-        pip3 install PyQt5
-  
-**Build MachOX / 构建 MachOX**
-
-In Terminal, run    
-    在终端运行    
-
-        git clone https://github.com/ShaOhuaZhang/MachOX.git
-        cd MachOX
-        make
-
-**Get your Team ID / 获取你的 Team ID**    
-      
-In Terminal, run    
-    在终端运行    
-        
-        security find-identity -v -p basic | grep "Apple Development"
-
-
-Copy the Team ID from the output (e.g., `A11A111AAA`)    
-    从输出中获取你的 Team ID （如`A11A111AAA`）
-
-**Install TrollStore / 安装TrollStore**
-
-In Terminal, run    
-    在终端运行
-
-        python3 trollresigner_gui.py
-
-
-Follow the on-screen instructions to select a system app to replace (e.g., `tips`)       
-按提示输入一个系统应用的名字（如：`tips`）    
-
-
-After the device restarts, enter the system app you entered    
-等待设备重启后，进入你输入的系统应用
-
-Click `Install TrollStore` and wait    
-点击 `Install TrollStore` 并等待    
-
-# II . TrollResigner_CLI (For Developer)       
-
-**Install Python3** (If not installed):  
-**安装Python 3** （如果尚未安装）：
-
-Install Python 3 from https://python.org    
-    从 https://python.org 下载Python 3
-
-Check:In Terminal,run    
-    检查版本：在终端运行
     
-    ```bash
     python3 --version
-    ```
+    
 
 Make sure the version was Python 3.9 or higher.    
     确保你的版本为Python 3.9及以上
@@ -139,16 +59,16 @@ Make sure the version was Python 3.9 or higher.
 In Terminal,run    
     在终端运行
 
-    ```bash
+    
     pip3 install pymobiledevice3
-    ```
 
+   
 Check:In Terminal, run    
     检查版本：在终端运行
 
-    ```bash
+    
     pymobiledevice3 version
-    ```
+    
 
 Make sure the version was 4.14.0 or higher.    
     确保你的版本为4.14.0及以上
@@ -170,15 +90,19 @@ In Terminal, run
         security find-identity -v -p basic | grep "Apple Development"
 
 
-Copy the Team ID from the output (e.g., `A11A111AAA`)    
-    从输出中获取你的 Team ID （如`A11A111AAA`）
+Copy the Team ID from the output (e.g., `A11A111AAA`), usually appears at the end of the output         
+    从输出中获取你的 Team ID （如`A11A111AAA`），通常出现在输出结尾
 
 **Sign your file / 签名 Helper**    
+
+
+Make sure MachOX_force is on Desktop.If not,move it to Desktop    
+    确认 MachOX_force 位于桌面。如果不是，移动到桌面    
 
 In Terminal, run    
     在终端运行    
         
-        ./MachOX -i dummy -o ~/Desktop/helper_resign -t YOUR_TEAM_ID
+        ~/Desktop/MachOX_force -i ~/Desktop/PersistenceHelper -o ~/Desktop/helper_resign -t G44H729HFF -A /Applications/Safari.app/Contents/MacOS/Safari
         
 **Verify the output / 验证输出**    
 
@@ -190,13 +114,17 @@ The signed helper will be saved to your Desktop as `helper_resign`
 In Terminal, run    
     在终端运行
 
-    mv ~/Desktop/helper_resign ~/Desktop/TrollStorePersistanceHelper_Resign
+    mv ~/Desktop/helper_resign ~/Desktop/TrollStorePersistenceHelper_Resign
 
 **Run RestoreHelper / 运行 RestoreHelper**    
 
+关闭“查找我的iPhone”    
+Close "Find My"
+
 In Terminal, run    
     在终端运行
-       
+
+        cd ~/Desktop/TrollResigner    
         python3 restorehelper.py    
 
 Follow the on-screen instructions to select a system app to replace (e.g., `tips`)       
