@@ -73,20 +73,16 @@ Check:In Terminal, run
 Make sure the version was 4.14.0 or higher.    
     确保你的版本为4.14.0及以上
      
-**Build MachOX / 构建 MachOX**
+**Download MachOX / 下载 MachOX**
 
-In Terminal, run    
-    在终端运行    
-
-        git clone https://github.com/ShaOhuaZhang/MachOX.git
-        cd MachOX
-        make
+Download MachOX from https://github.com/ShaOhuaZhang/MachOX/releases    
+从 https://github.com/ShaOhuaZhang/MachOX/releases 下载 MachOX 
 
 **Get your Team ID / 获取你的 Team ID**    
       
 In Terminal, run    
     在终端运行    
-        
+         
         security find-identity -v -p basic | grep "Apple Development"
 
 
@@ -134,7 +130,8 @@ Follow the on-screen instructions to select a system app to replace (e.g., `tips
 After the device restarts, enter the system app you entered    
 等待设备重启后，进入你输入的系统应用
 
-Click `Install TrollStore` and wait    
+Click `Install TrollStore` and wait     
+
 点击 `Install TrollStore` 并等待
 
 # Credits/致谢:
