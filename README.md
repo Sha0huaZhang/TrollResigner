@@ -4,7 +4,7 @@
 
 **restorehelper.py**
 
-SHA256:f40e19fd46d979dc18bcbcc9d7f9f85b75dbdab5a5acef80e581a0bde629cc52
+SHA256:ee3506f7dab4e420d0ab356698a77ec1b2b61a1b3ab15baa5b87c1d950c5ed4c
 # Details / 详情
 TrollResigner is a tool to install TrollStore on iOS 16.7 (20H19) - iOS 16.7.x & iOS 17.0.1.
 
