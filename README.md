@@ -1,5 +1,7 @@
 # TrollResigner
 
+TrollResigner now noly supports macOS.
+
 **SHA256**
 
 **restorehelper.py**
