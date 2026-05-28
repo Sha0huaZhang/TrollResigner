@@ -1,7 +1,7 @@
 # TrollResigner
 
 TrollResigner **now only supports macOS**    
-TrollResigner**目前仅支持macOS**
+TrollResigner **目前仅支持macOS**
 
 
 **SHA256**    
