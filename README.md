@@ -1,5 +1,9 @@
 # TrollResigner
 
+# License
+
+This project is licensed under the **MIT License**
+
 TrollResigner **now noly supports macOS**.
 
 **SHA256**
