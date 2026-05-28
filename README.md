@@ -166,7 +166,7 @@ This project is licensed under the **MIT License**
 # Credits/致谢:
 (in alphabetical/按首字母排列)
 
-JJTech (@JJTech0130) [https://GitHub.com/JJTech0130](https://GitHub.com/JJTech0130) : TrollRestore & SparseRestore & CVE-2024-44252    
+JJTech (@JJTech0130) [https://GitHub.com/JJTech0130](https://GitHub.com/JJTech0130) : TrollRestore & CVE-2024-44252    
     Lars Fröder (@opa334) [https://GitHub.com/opa334](https://GitHub.com/opa334) : TrollStore & ChOma    
-    Nathan ： [https://GitHub.com/verygenericname](https://GitHub.com/verygenericname)    
-    Sha0huaZhang : PerfectCheater (CoreTrust Bypass) & MachOX 
+    Nathan [https://GitHub.com/verygenericname](https://GitHub.com/verygenericname) : SparseRestore    
+    Sha0huaZhang [https://GitHub.com/Sha0huaZhang](https://GitHub.com/Sha0huaZhang) : PerfectCheater (CoreTrust Bypass) & MachOX 
