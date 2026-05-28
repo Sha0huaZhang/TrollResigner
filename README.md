@@ -128,7 +128,7 @@ Close "Find My"
 In Terminal, run    
     在终端运行
 
-        cd ~/Desktop/TrollResigner    
+        cd ~/Desktop/TrollResigner-VERSION_NUMBER    
         python3 restorehelper.py    
 
 Follow the on-screen instructions to select a system app to replace (e.g., `tips`)       
@@ -152,7 +152,7 @@ If you encounter any issues, please contact (By Chinese or English) :
 And include details in your email    
 并附上详细信息 
 
-# Donation
+# Donation / 捐赠
 
 Needn't any donation,thank you for your support!    
 无需任何捐赠，感谢大家的支持！    
