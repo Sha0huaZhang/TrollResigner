@@ -8,7 +8,7 @@ TrollResigner **now noly supports macOS**.
 
 SHA256:ee3506f7dab4e420d0ab356698a77ec1b2b61a1b3ab15baa5b87c1d950c5ed4c
 
-# License
+# License / 许可证
 
 This project is licensed under the **MIT License**
 
