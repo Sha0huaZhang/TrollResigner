@@ -170,5 +170,5 @@ This project is licensed under the **MIT License**
 
 JJTech (@JJTech0130) [https://GitHub.com/JJTech0130](https://GitHub.com/JJTech0130) : TrollRestore & SparseRestore & CVE-2024-44252    
     Lars Fröder (@opa334) [https://GitHub.com/opa334](https://GitHub.com/opa334) : TrollStore & ChOma    
-    Nathan ： [https://GitHub.com/verygenericname](https://GitHub.com/verygenericname)
+    Nathan ： [https://GitHub.com/verygenericname](https://GitHub.com/verygenericname)    
     Sha0huaZhang : PerfectCheater (CoreTrust Bypass) & MachOX 
