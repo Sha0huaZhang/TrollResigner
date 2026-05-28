@@ -147,7 +147,7 @@ Click `Install TrollStore` and wait
 # Support / 支持
 
 If you encounter any issues, please contact (By Chinese or English) :    
-如遇到问题，请联系 (请使用中文或英语)：
+如遇问题，请联系 (请使用中文或英语)：
 
 `trollresignertest1@outlook.com`
 
