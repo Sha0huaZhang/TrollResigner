@@ -1,6 +1,8 @@
 # TrollResigner
 
-TrollResigner **now noly supports macOS**.
+TrollResigner **now only supports macOS**    
+TrollResigner**目前仅支持macOS**
+
 
 **SHA256**
 
@@ -8,11 +10,10 @@ TrollResigner **now noly supports macOS**.
 
 SHA256:ee3506f7dab4e420d0ab356698a77ec1b2b61a1b3ab15baa5b87c1d950c5ed4c
 
-# License / 许可证
+**This tool is built upon / 本工具基于以下技术构建：**    
 
-This project is licensed under the **MIT License**。  
-
-本项目遵循 **MIT 协议**
+- **SparseRestore (CVE-2024-44252)** : Backup restoration vulnerability    
+- **PerfectCheater** : CoreTrust Bypass vulnerability       
 
 # Details / 详情
 TrollResigner is a tool to install TrollStore on iOS 16.7 (20H19) - iOS 16.7.x & iOS 17.0.1.
@@ -143,8 +144,31 @@ Click `Install TrollStore` and wait
 
 点击 `Install TrollStore` 并等待
 
+# Support / 支持
+
+If you encounter any issues, please contact (By Chinese or English) :    
+如遇到问题，请联系 (请使用中文或英语)：
+
+`trollresignertest1@outlook.com`
+
+And include details in your email    
+并附上详细信息 
+
+# Donation
+
+Needn't any donation,thank you for your support!    
+无需任何捐赠，感谢大家的支持！    
+
+# License / 许可证
+
+This project is licensed under the **MIT License**    
+
+本项目遵循 **MIT 协议**
+
 # Credits/致谢:
 (in alphabetical/按首字母排列)
 
 JJTech (@JJTech0130) [https://GitHub.com/JJTech0130](https://GitHub.com/JJTech0130) : TrollRestore & SparseRestore & CVE-2024-44252    
-    Lars Fröder (@opa334) [https://GitHub.com/opa334](https://GitHub.com/opa334) : TrollStore & ChOma
+    Lars Fröder (@opa334) [https://GitHub.com/opa334](https://GitHub.com/opa334) : TrollStore & ChOma    
+    Nathan ： [https://GitHub.com/Nathan](https://GitHub.com/Nathan)
+    Sha0huaZhang : PerfectCheater (CoreTrust Bypass) & MachOX 
