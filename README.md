@@ -4,11 +4,9 @@ TrollResigner **now only supports macOS**
 TrollResigner**目前仅支持macOS**
 
 
-**SHA256**
+**SHA256**    
 
-**restorehelper.py**
-
-SHA256:ee3506f7dab4e420d0ab356698a77ec1b2b61a1b3ab15baa5b87c1d950c5ed4c
+restorehelper.py : ee3506f7dab4e420d0ab356698a77ec1b2b61a1b3ab15baa5b87c1d950c5ed4c
 
 **This tool is built upon / 本工具基于以下技术构建：**    
 
