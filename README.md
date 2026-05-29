@@ -43,6 +43,39 @@ iOS 16.7 (20H19) - iOS 16.7.x & iOS 17.0.1
 
 *Some data from [https://ios.cfw.guide](https://ios.cfw.guide/installing-trollstore/)
 
+#  Disclosure Status/披露状态
+
+This tool implements a CoreTrust bypass vulnerability on iOS 16.7 (20H19) - 16.7.x and 17.0.1.
+
+- **Reported to Apple:** May 5, 2026 (Report ID: OE110620235331)
+- **Apple Response:** Report closed on May 28, 2026, security impact not acknowledged
+- **Current Status:** No fix issued, no CVE assigned
+
+Apple's final response stated:
+
+> "the testing needs to be done on Apple hardware and not in a simulator... We are closing this report and will not be providing any more updates."
+
+Given that Apple has not fixed this issue within a reasonable timeframe, this tool is released to protect users and promote community research.
+
+---    
+
+本工具实现了 iOS 16.7 (20H19) - 16.7.x 和 17.0.1 上的 CoreTrust 绕过漏洞。
+
+- **向 Apple 报告时间：** 2026 年 5 月 5 日（报告编号：OE110620235331）
+- **Apple 回复：** 于 2026 年 5 月 28 日关闭报告，未确认安全影响
+- **当前状态：** 未发布修复，未分配 CVE
+
+Apple 的最终回复称：
+
+> "测试需要在 Apple 硬件上进行，而不是在模拟器中……我们将关闭此报告，并不会提供进一步的更新。"
+
+鉴于 Apple 未在合理时间内修复此问题，为保护用户安全并促进社区研究，决定公开本工具。
+
+**Full disclosure history/完整披露历史：**   
+
+[docs/disclosure.md](docs/disclosure.md)
+
+
 # Usage / 使用方法
 
 **Install Python3** (If not installed):  
