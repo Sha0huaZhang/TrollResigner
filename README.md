@@ -43,7 +43,7 @@ iOS 16.7 (20H19) - iOS 16.7.x & iOS 17.0.1
 
 *Some data from [https://ios.cfw.guide](https://ios.cfw.guide/installing-trollstore/)
 
-#  Disclosure Status/披露状态
+#  Disclosure Status / 披露状态
 
 This tool implements a CoreTrust bypass vulnerability on iOS 16.7 (20H19) - 16.7.x and 17.0.1.
 
@@ -71,7 +71,7 @@ Apple 的最终回复称：
 
 鉴于 Apple 未在合理时间内修复此问题，为保护用户安全并促进社区研究，决定公开本工具。
 
-**Full disclosure history/完整披露历史：**   
+**Full disclosure history / 完整披露历史：**   
 
 [docs/disclosure.md](docs/disclosure.md)
 
