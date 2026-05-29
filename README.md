@@ -83,8 +83,8 @@ Make sure the version was 4.14.0 or higher.
      
 **Download MachOX / 下载 MachOX**
 
-Download MachOX from https://github.com/ShaOhuaZhang/MachOX/releases    
-从 https://github.com/ShaOhuaZhang/MachOX/releases 下载 MachOX 
+Download MachOX from https://github.com/Sha0huaZhang/MachOX/releases    
+从 https://github.com/Sha0huaZhang/MachOX/releases 下载 MachOX 
 
 **Get your Team ID / 获取你的 Team ID**    
       
