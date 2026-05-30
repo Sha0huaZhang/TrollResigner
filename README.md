@@ -194,7 +194,7 @@ Needn't any donation,thank you for your support!
 
 This project is licensed under the **MIT License**    
 
-本项目遵循 **MIT 协议**
+本项目遵循 **MIT 开源协议**
 
 # Credits/致谢:
 (in alphabetical/按首字母排列)
